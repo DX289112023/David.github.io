@@ -1,2 +1,0 @@
-1. 避免双击，单击按钮时就将按钮移除并替换成一条消息。
-  document.getElementById("myDiv").innerHTML = "Processing...."
