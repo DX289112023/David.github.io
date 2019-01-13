@@ -76,38 +76,3 @@ var myHeader = xhr.getResponseHeader("MyHeader");
 // 获取包含所有头部信息的长字符串
 var allHeaders = xhr.getAllResponseHeaders();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
